@@ -1,9 +1,9 @@
 # README.md
-A modern food delivery mobile app UI designed in Figma.
-# 🍔 Food Delivery App UI
+A modern food recipe mobile app UI designed in Figma.
+# 🍔 Food recipe App UI
 
 ## 📌 Description
-A modern and user-friendly food delivery mobile app UI designed using Figma.  
+A modern and user-friendly food recipe mobile app UI designed using Figma.  
 This project focuses on clean design, smooth navigation, and attractive visuals.
 
 ## 🎨 Tools Used
